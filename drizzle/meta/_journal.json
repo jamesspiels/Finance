@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1722884354027,
+      "tag": "0000_easy_martin_li",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1722885451036,
+      "tag": "0001_minor_lila_cheney",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1722968625043,
+      "tag": "0002_public_winter_soldier",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1722975242339,
+      "tag": "0003_robust_gateway",
+      "breakpoints": true
+    }
+  ]
+}
